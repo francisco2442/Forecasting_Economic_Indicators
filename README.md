@@ -1,8 +1,14 @@
-# Economic-Indicator-Analysis
+# Economic Indicator Analysis
+**The question we want to answer:** 
 
-# Data visuals
+'Insert Question Here'
 
-# summary of metrics being analyzed
+# Conclusion 
 
-# Recommendations & next steps
+# Recommendations
 
+# Summary of Insights
+
+# Metrics
+
+# Data Visuals 
