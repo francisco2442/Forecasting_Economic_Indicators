@@ -14,6 +14,11 @@ What direction should the Federal Reserve take on monetary policy?
 - If inflation continues to increase then consider implementing a contractionary monetary policy.
 
 # Summary of Insights
+## Current State of The Economy
+
+## Overall Assessment of Future Conditions
+
+## Forecasted Results
 
 # Metrics
 ### Gross Domestic Product Estimation Equation
