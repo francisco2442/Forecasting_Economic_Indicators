@@ -10,7 +10,7 @@ What direction should the Federal Reserve take on monetary policy?
 ### The Federal Reserve should not change the current monetary policy and continue to monitor the inflation rate.
 
 # Recommendations
-- Continue to monitor the Consumer Price Index for
+- Continue to monitor the Consumer Price Index
 - If inflation continues to increase then consider implementing a contractionary monetary policy.
 
 # Summary of Insights
