@@ -19,7 +19,11 @@ What direction should the Federal Reserve take on monetary policy?
 ## Overall Assessment of Future Conditions
 
 ## Forecasted Results
-### Gross Domestic Product is expected to
+**Real Gross Domestic Product is expected to grow at 4.6% in 2021, then slow to 2.7% in 2022.**
+
+**The Consumer Price Index is expected to grow to 2.4% in 2021, then fall to 1.7% in 2022.**
+
+**The Unemployment Rate is expected to rise to 5.2% in 2021, then decrease to 4.5% in 2022.**
 
 # Metrics
 ### Gross Domestic Product Estimation Equation
