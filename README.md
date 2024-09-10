@@ -5,7 +5,7 @@ What direction should the Federal Reserve take on monetary policy?
 
 **Should they implement contractionary, expansionary, or no change to the current policy**? 
 
-# Conclusion 
+# Monetary Policy Recommendation 
 
 ### The Federal Reserve should not change the current monetary policy and continue to monitor the inflation rate.
 
@@ -23,7 +23,7 @@ What direction should the Federal Reserve take on monetary policy?
 
 **The Consumer Price Index is expected to grow to 2.4% in 2021, then fall to 1.7% in 2022.**
 
-**The Unemployment Rate is expected to rise to 5.2% in 2021, then decrease to 4.5% in 2022.**
+**The Unemployment Rate is expected to rise to 5.2% in 2021, and then decrease to 4.5% in 2022.**
 
 # Metrics
 ### Gross Domestic Product Estimation Equation
@@ -58,4 +58,5 @@ What direction should the Federal Reserve take on monetary policy?
   - Trend - The overall direction of the market
 
 # Data Visuals 
+
 
