@@ -15,15 +15,23 @@ What direction should the Federal Reserve take on monetary policy?
 
 # Summary of Insights
 ## Current State of The Economy
+![image](https://github.com/user-attachments/assets/d548f9e1-eaec-42cb-a3a6-e8dc6ce6ca8d)
+
+![image](https://github.com/user-attachments/assets/a1015862-582d-4868-99f1-a105b3372327)
+
+![image](https://github.com/user-attachments/assets/c867d6f2-c35e-49d1-b3ff-9ccbea796bbc)
+
 
 ## Overall Assessment of Future Conditions
+![image](https://github.com/user-attachments/assets/0b4ce315-f19e-458c-abf8-809b9a8c2af4)
 
 ## Forecasted Results
-**Real Gross Domestic Product is expected to grow at 4.6% in 2021, then slow to 2.7% in 2022.**
 
-**The Consumer Price Index is expected to grow to 2.4% in 2021, then fall to 1.7% in 2022.**
+![image](https://github.com/user-attachments/assets/4ef4081e-21f7-4d82-bc1e-d9187407cb07)
 
-**The Unemployment Rate is expected to rise to 5.2% in 2021, and then decrease to 4.5% in 2022.**
+![image](https://github.com/user-attachments/assets/4d402ff4-23e1-4ff9-90f1-e4f4c0627aa8)
+
+![image](https://github.com/user-attachments/assets/b82d07ae-eec8-4fc1-9ad1-701e698724c2)
 
 # Metrics
 ### Gross Domestic Product Estimation Equation
@@ -56,7 +64,3 @@ What direction should the Federal Reserve take on monetary policy?
   - Comp - Compensation of employees, received: wages and salary disbursements
   - UR(-1) - Unemployment rate lagged one period
   - Trend - The overall direction of the market
-
-# Data Visuals 
-
-
