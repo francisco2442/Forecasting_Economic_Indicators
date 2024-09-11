@@ -31,7 +31,8 @@ What direction should the Federal Reserve take on monetary policy?
 
 ![image](https://github.com/user-attachments/assets/4d402ff4-23e1-4ff9-90f1-e4f4c0627aa8)
 
-![image](https://github.com/user-attachments/assets/b82d07ae-eec8-4fc1-9ad1-701e698724c2)
+![image](https://github.com/user-attachments/assets/4bbbe378-fccb-4747-a408-9f5e61b928ec)
+
 
 # Metrics
 ### Gross Domestic Product Estimation Equation
